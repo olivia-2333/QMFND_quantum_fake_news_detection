@@ -7,7 +7,6 @@ import qnn
 
 BATCH_SIZE = 56
 
-
 from transformers import AutoTokenizer, XLNetForSequenceClassification
 from IPython.display import display, clear_output
 
